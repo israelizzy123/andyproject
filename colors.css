@@ -1,0 +1,49 @@
+/* Check out different colors here: https://www.materialpalette.com/ */
+
+.box {
+  min-height:100vh;
+  width: 100%;
+}
+
+.white {
+	  background-color: #fff;
+	  min-height:25px;
+}
+
+.dark_yellow {
+  background-color:#b49a67;
+}
+
+.white {
+	  background-color: #fff;
+	  min-height:25px;
+}
+
+.dark_green {
+  background-color:#857e61;
+}
+
+.white {
+	  background-color: #fff;
+	  min-height:25px;
+}
+
+.light_brown {
+  background-color:#b27c66;
+}
+.white {
+	  background-color: #fff;
+	  min-height:25px;
+}
+
+.brown{
+	background-color:#644536;
+}
+.white {
+	  background-color: #fff;
+	  min-height:25px;
+}
+
+.dark_brown{
+	background-color:#967d69;
+}
