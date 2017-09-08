@@ -1,0 +1,16 @@
+/* Check out different fonts here: https://fonts.google.com/ */
+
+h1 {
+	font-family: 'Georgia', cursive;
+	padding-bottom: 10px;
+}
+
+h2 {
+	font-family: 'Cambria', cursive;
+	padding-bottom: 30px;
+}
+
+h3 {
+	font-family: 'Permanent Marker', serif;
+	padding-bottom: 50px;
+}
