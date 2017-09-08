@@ -14,14 +14,12 @@
 
 	
   <!-- The "body" is the part of your document where you include all content you want to show up in the browser -->
-	<body>
-	<h1>Israel</h1>
+	<body>  <h1>Israel</h1>
 		<h2>Israel</h2>
 		<h3>Israel</h3>
 			
 
-		
-<div class="box dark_yellow"></div>
+		<div class="box dark_yellow"></div>
 		<div class="white"></div>
 		<div class="box dark_green "></div>
 		<div class="white"></div>
